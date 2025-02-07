@@ -23,7 +23,7 @@ If you're having issues running this, please look through the [issues tab](https
  - Info about the files used.
 
 For general chit chat about this and any other lipsync talk, I'll be in this Channel :<br>
-Join YouTube Community(for FREE) link: https://   <br>
+Join (FREE)YouTube Community link: https://   <br>
 YouTube Channel link: https://
 
 # Best practices:
