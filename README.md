@@ -1,5 +1,5 @@
 # Easy-Wav2Lip
-Make Lip-Sync Anime Movie Cartoon Characters Speak in Any Language.
+Make Lip-Sync Anime Cartoon Movie Characters Speak in Any Language.
 ### For the easiest and most compatible way to use this tool, use the Google Colab version:
 
 ## Google Colab:
