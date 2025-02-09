@@ -1,11 +1,11 @@
 # Easy-Wav2Lip
-Make Lip-Sync Anime Cartoon Movie Characters Speak in Any Language.
+Make Lip-Sync Anime Cartoon Movie Characters Speak in Any Language For Voice-Over Dubbing Artist.
 ### For the easiest and most compatible way to use this tool, use the Google Colab version:
 
 ## Google Colab:
-[https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb](https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb)
+[https://colab.research.google.com/github/rajshekharrr/Easy-Wav2Lip/blob/main/Easy_Wav2Lip_v9_Colab.ipynb](https://colab.research.google.com/github/rajshekharrr/Easy-Wav2Lip/blob/main/Easy_Wav2Lip_v9_Colab.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajshekharrr/Easy-Wav2Lip/blob/main/Easy_Wav2Lip_v9_Colab.ipynb)
 
 # Credits:
 * [The Original Wav2Lip](https://github.com/Rudrabha/Wav2Lip) of course.
@@ -14,17 +14,14 @@ Make Lip-Sync Anime Cartoon Movie Characters Speak in Any Language.
 * I couldn't have done this without AI assistance **Chat GPT**, **Bard/Gemini** & **My Secret1 India**; Before making this I had very minimal python experience! 
 * Thanks to [AnotherMartz](https://github.com/anothermartz/Easy-Wav2Lip), [JustinJohn](https://github.com/justinjohn0306) & Many others for making the [Wav2Lip_simplified](https://colab.research.google.com/github/justinjohn0306/Wav2Lip/blob/master/Wav2Lip_simplified_v5.ipynb) and 
 [Easy-Wav2Lip](https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb)
-colabs which inspired me to make my own, even simpler version (for) 2025.
+colabs which inspired me to make my own, even simpler version (2025) for Voice-Over Dubbing Artists projects of Anime Cartoon Movie Characters Lip-Sync to Any Languages.
 
 ## Support
-If you're having issues running this, please look through the [issues tab](https://github.com/rajshekharrr/Easy-Wav2Lip/issues) to see if someone has written about it. If not, make a new thread but make sure you include the following:<br>
- <br> **If colab:**
- - Easy-Wav2Lip colab version number
- - Info about the files used.
-
-For general chit chat about this and any other lipsync talk, I'll be in this Channel :<br>
-Join (FREE)YouTube Community link: https://   <br>
-YouTube Channel link: https://
+If you're having issues/Errors running this, [Join (FREE) YouTube Community](https://www.youtube.com/channel/UCCWR6IY3kmp62mtw1-nyMVA?sub_confirmation=1)   and comment on Video or Post. We will try to solve in 24 hours. Because I use YouTube everyday (atlest once in a Day, I check my YouTube channel for New Updates/Videos/Comments) 
+<br> YouTube Channel link: [https://www.youtube.com/@TimeWithShekhar](https://www.youtube.com/@TimeWithShekhar?sub_confirmation=1) 
+* Please Wacth this [Video Tutorial](https://coming soon) before you run my Easy-Wav2Lip colab. 
+<br>
+Optionally, make a new thread at [issues tab](https://github.com/rajshekharrr/Easy-Wav2Lip/issues)
 
 # Best practices:
 * The best results come from lining up the speech to the actions and expressions of the speaker before you send it through wav2lip!
