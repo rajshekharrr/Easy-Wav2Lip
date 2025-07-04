@@ -65,6 +65,14 @@ load_file_from_url(
 )
 model = load_model(os.path.join(working_directory, "checkpoints", "Wav2Lip.pth"))
 print("wav2lip loaded")
+load_file_from_url(
+    url="/content/drive/MyDrive/lipsync_expert.pth",
+    model_dir="checkpoints",
+    progress=True,
+    file_name="lipsync_expert.pth",
+)
+model = load_model(os.path.join(working_directory, "checkpoints", "lipsync_expert.pth"))
+print("lipsync_expert loaded")
 
 # download gfpgan files
 print("downloading gfpgan essentials")
