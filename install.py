@@ -66,7 +66,7 @@ load_file_from_url(
 model = load_model(os.path.join(working_directory, "checkpoints", "Wav2Lip.pth"))
 print("wav2lip loaded")
 load_file_from_url(
-    url="/content/drive/MyDrive/lipsync_expert.pth",
+    url="https://github.com/anothermartz/Easy-Wav2Lip/releases/download/Prerequesits/lipsync_expert.pth",
     model_dir="checkpoints",
     progress=True,
     file_name="lipsync_expert.pth",
