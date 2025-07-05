@@ -91,15 +91,4 @@ load_predictor()
 with open("installed.txt", "w") as f:
     f.write(version)
 print("Installation complete!")
-print(
-    "If you just updated from v8 - make sure to download the updated Easy-Wav2Lip.bat too!"
-)
 
-load_file_from_url(
-    url="/content/drive/MyDrive/lipsync_expert.pth",
-    model_dir="checkpoints",
-    progress=True,
-    file_name="lipsync_expert.pth",
-)
-model = load_model(os.path.join(working_directory, "checkpoints", "lipsync_expert.pth"))
-print("lipsync_expert loaded")
